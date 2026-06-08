@@ -1,4 +1,2 @@
-yfinance
 pandas
 plotly
-pytz
